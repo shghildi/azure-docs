@@ -12,7 +12,7 @@
 
 | Resource | Limit |
 | --- | --- |
-| Management groups per Microsoft Entra tenant | 10,000 |
+| Management groups per Microsoft Entra tenant | 25,000 |
 | Subscriptions per management group | Unlimited. |
 | Levels of management group hierarchy | Root level plus 6 levels<sup>1</sup> |
 | Direct parent management group per management group | One |
