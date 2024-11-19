@@ -42,7 +42,7 @@ subscriptions.
 
 ### Important facts about management groups
 
-- A single directory can support 10,000 management groups.
+- A single directory can support 25,000 management groups.
 - A management group tree can support up to six levels of depth.
 
   This limit doesn't include the root level or the subscription level.
